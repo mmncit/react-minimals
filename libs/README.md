@@ -1,0 +1,3 @@
+```
+npx tsdx create components
+```
