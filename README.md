@@ -12,3 +12,9 @@ Rush update
 ```
 rush update
 ```
+
+Deployment
+
+```
+rush init-deploy -p landing
+```
