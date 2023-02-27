@@ -1,5 +1,4 @@
 import * as React from "react";
-import "./App.css";
 import { Thing } from "@shared/components";
 
 function App() {
