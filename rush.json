@@ -26,6 +26,16 @@
       "tags": []
     },
     {
+      "packageName": "authentication",
+      "projectFolder": "apps/authentication",
+      "tags": []
+    },
+    {
+      "packageName": "webpack-ts-template",
+      "projectFolder": "apps/webpack-ts-template",
+      "tags": []
+    },
+    {
       "packageName": "@shared/components",
       "projectFolder": "libs/components",
       "tags": []
