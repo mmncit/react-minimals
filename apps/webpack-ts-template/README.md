@@ -1,11 +1,3 @@
-## Available Scripts
+**[webpack + typescript + react template](https://640f853d9709e60008fff13d--illustrious-brigadeiros-48ef1b.netlify.app/)**
 
-In the project directory, you can run:
-
-### `pnpm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60f29617-f113-4379-b997-70665189a864/deploy-status)](https://app.netlify.com/sites/illustrious-brigadeiros-48ef1b/deploys)
