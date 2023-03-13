@@ -23,7 +23,7 @@
    *
    * The default value is false.
    */
-  // "includeDevDependencies": true,
+  "includeDevDependencies": true,
   /**
    * When deploying a local Rush project, normally the .npmignore filter is applied so that Rush only copies
    * files that would be packaged by "npm pack".  Setting "includeNpmIgnoreFiles" to true will disable this
